@@ -4,6 +4,8 @@
 
 PyMathSolver is a Python module to solve math problems and work on calculations.
 
+<img src="https://user-images.githubusercontent.com/50455489/183285612-deee1fb4-cf38-4409-8d1b-c0ff1a28091f.png" width="400" height="300" />
+
 ## How to Use it?
 
 Run the following command `pip install PyMathSolver` to install the module.
